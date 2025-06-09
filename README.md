@@ -8,7 +8,7 @@ Changes to the standard Siege Perilous ruleset include:
 
 * Sacred Journey & Recall spells are re-enabled but with a 3x cast delay
 
-* Equiped items are not dropped on death (except Cursed items)
+* Equipped items are not dropped on death (except Cursed items)
 
 * NPCs teach skills upto 100
 
