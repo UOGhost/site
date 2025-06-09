@@ -1,3 +1,31 @@
++++
++++
+
+# How to Play
+
+1. Install EA's Classic Client 
+
+[uo.com/client-download](https://uo.com/client-download/)
+
+After install, run it and let it patch all the way.
+
+2. Install ClassicUO & RazorEnhanced
+
+[classicuo.eu](https://www.classicuo.eu/)
+
+[razorenhanced.github.io](https://razorenhanced.github.io/)
+
+3. Launch RazorEnhanced
+
+**Shard Selection:**         | add "UO Ghost"
+---                          | --- 
+**Client location:**         | EA's Classic Client location 
+**CUO Client:**              | the ClassicUO location
+**Server Address:**          | shard.uoghost.com
+**Port:**                    | 2593
+
+Click "Launch CUO" and login with the user/pass you want. The account will be auto-created.
+
 # About
 
 UO Ghost is an Ultima Online server somewhat based on the official Siege Perilous ruleset with some quality of life and user experience improvements on top.
@@ -26,28 +54,3 @@ Any other differences from Siege Perilous should be eventually corrected to matc
 
 If you find any such cases, or any other issues or bugs, please report it via [Discord](https://discord.gg/D5jNKK2U93) so I can prioritize fixing it.
 
-
-# How to Play
-
-1. Install EA's Classic Client 
-
-[uo.com/client-download](https://uo.com/client-download/)
-
-After install, run it and let it patch all the way.
-
-2. Install ClassicUO & RazorEnhanced
-
-[classicuo.eu](https://www.classicuo.eu/)
-
-[razorenhanced.github.io](https://razorenhanced.github.io/)
-
-3. Launch RazorEnhanced
-
-**Shard Selection:**         | add "UO Ghost"
----                          | --- 
-**Client location:**         | EA's Classic Client location 
-**CUO Client:**              | the ClassicUO location
-**Server Address:**          | shard.uoghost.com
-**Port:**                    | 2593
-
-Click "Launch CUO" and login with the user/pass you want. The account will be auto-created.
