@@ -1,3 +1,10 @@
+# Deploy 
+
+```
+zola build --output-dir docs --force  
+```
+
+
 # About
 
 UO Ghost is an Ultima Online server somewhat based on the official Siege Perilous ruleset with some quality of life and user experience improvements on top.
