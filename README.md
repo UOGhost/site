@@ -1,3 +1,9 @@
+# Run locally 
+
+```
+zola serve
+```
+
 # Deploy 
 
 ```
