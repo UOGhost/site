@@ -83,4 +83,7 @@
          {% if config.extra.social.hackernews %}
             <li><a class="social-btn" href="https://news.ycombinator.com/user?id={{ config.extra.social.hackernews }}" aria-label="Hacker News" target="_blank" rel="noopener noreferrer"><i class="nf nf-dev-hackernews"></i></a></li>
          {% endif %}
+         {% if config.extra.social.discord %}
+            <li><a class="social-btn" href="https://discord.com/invite/{{ config.extra.social.discord }}" aria-label="Discord" target="_blank" rel="noopener noreferrer"><i class="nf"></i>Join on Discord</a></li>
+         {% endif %}
          </ul>
